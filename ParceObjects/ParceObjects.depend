@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1716590830 source:d:\git\cpp_first_steps\parceobjects\main.cpp
+	<iostream>
+	<map>
+	<vector>
+	<string>
+	<utility>
+	<fstream>
+	<stdexcept>
+
